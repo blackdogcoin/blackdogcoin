@@ -1,0 +1,9 @@
+Building blackdogcoin
+
+See doc/readme-qt.rst for instructions on building blackdogcoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of blackdogcoin.
+
+See doc/build-*.txt for instructions on building blackdogcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of blackdogcoin.
